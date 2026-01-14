@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Rainy Girl",
+  "base_artist": "マシマヒメコ(CV:夏吉ゆうこ)",
+  "createdAt": "2026-01-14T08:43:10.255123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rainy Girl",
+      "artist": "Andrew McMahon",
+      "has_synced": false,
+      "path": "select/01_Rainy_Girl_Andrew_McMahon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rainy Girl - レイニーガール",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/02_Rainy_Girl_-_レイニーガール_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rainy Girl",
+      "artist": "Andrew McMahon In the Wilderness",
+      "has_synced": true,
+      "path": "select/03_Rainy_Girl_Andrew_McMahon_In_the_Wilderness.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rainy Girl",
+      "artist": "Tanya Tucker",
+      "has_synced": false,
+      "path": "select/04_Rainy_Girl_Tanya_Tucker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rainy Girl",
+      "artist": "HoneyComeBear",
+      "has_synced": true,
+      "path": "select/05_Rainy_Girl_HoneyComeBear.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rainy Girl",
+      "artist": "Andrew McMahon In the Wilderness",
+      "has_synced": true,
+      "path": "select/06_Rainy_Girl_Andrew_McMahon_In_the_Wilderness.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rainy Girl",
+      "artist": "マシマヒメコ(CV:夏吉ゆうこ)",
+      "has_synced": false,
+      "path": "select/pl_01_Rainy_Girl_マシマヒメコ(CV_夏吉ゆうこ).txt"
+    }
+  ]
+}
